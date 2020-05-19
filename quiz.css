@@ -1,0 +1,98 @@
+body {
+    background-color: rgba(0, 191, 165, 0.5);
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: "Arvo", serfif;
+    color: white;
+}
+
+.logo {
+    height: 30px;
+}
+
+.navbar-dark {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.nav-link {
+    color: white;
+    font-size: 17px;
+    margin-right: 35px;
+    padding: 10px 0px 10px 0px;
+}
+
+.nav-link:hover {
+    color: white;
+    border-bottom: 1px solid #00BFA5;
+    padding-bottom: 9px;
+}
+
+.container {
+    background-color: white;
+    margin-top: 100px;
+    color: black;
+    padding: 30px;
+    border-radius: 20px;
+    -webkit-box-shadow: 10px 14px 10px 0px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 10px 14px 10px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 10px 14px 10px 0px rgba(0, 0, 0, 0.2);
+}
+
+.container2 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.bodyimage {
+    height: 100px;
+    margin: 20px;
+}
+
+#card {
+    text-align: center;
+    border-radius: 20px;
+}
+
+
+.col-med-4 h2 {
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+
+.col-med-4 p {
+    font-size: 15px;
+
+}
+
+.btn-color-1 {
+    background-color: rgba(0, 191, 165, 0.5);
+    color: black;
+    padding: 10px 70px;
+    font-size: 17px;
+    border-radius: 10px;
+    border: none;
+    letter-spacing: 1.3px;
+    min-width: 70%;
+}
+
+.btn-color-1:hover {
+    background-color: #00BFA5;
+    color: black;
+}
+
+.click {
+    margin-bottom: 20px;
+}
+
+.quiz-step {
+    display: none;
+}
+
+.quiz-step.current {
+    display: block;
+}
+
+#results {
+    display: none;
+}
