@@ -1,2 +1,2 @@
 # MoveBuddy-Website
-Website for MoveBuddy App, made with HTML, CSS, and Javascript
+Wesbite for MoveBuddy mobile app, made with HTML, CSS, Javascript, and Bootstrap.
